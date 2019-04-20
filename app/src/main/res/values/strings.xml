@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DaggerCarTutorial</string>
+    <string name="drive">Drive</string>
+    <string name="car">Car</string>
+    <string name="steering_wheel">Steering Wheel</string>
+</resources>
